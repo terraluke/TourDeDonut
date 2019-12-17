@@ -1,0 +1,4 @@
+# TourDeDonut
+See TDD.html for a downloadable HTML interactive map
+Tour_De_Donut_Route_map is the static map
+Tour_De_Donut_report has the two page paper along with the maps
